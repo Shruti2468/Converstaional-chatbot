@@ -11,5 +11,5 @@ Run
 python app.py
 
 Model
-Qwen/Qwen2.5-0.5B-Instruct
+Qwen/Qwen2.5-0.5B-Instruct (No API Key required)
 Small (0.5B) instruction-tuned model for fast local inference.
